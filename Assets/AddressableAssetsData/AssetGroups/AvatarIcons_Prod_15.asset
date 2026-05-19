@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: AvatarIcons_Prod_15
+  m_EditorClassIdentifier: 
+  m_GroupName: AvatarIcons_Prod_15
+  m_Data:
+    m_SerializedData: []
+  m_GUID: ec29ab154fb1c3b4aad3d5f0fed3a1c0
+  m_SerializeEntries:
+  - m_GUID: 7fe1605c92d3aa34ab790ae6c3984de3
+    m_Address: TTBoy/TshirtLA_TshirtGreyWLogoLrg_Prod_15
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5c222441464e1e24f94b3ad594cbd4f4
+    m_Address: TTBoy/TshirtLB_TshirtGreyWLogoLrg_Prod_15
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b9f29c8c7aa81ae46b24165ff55016f3
+    m_Address: TTBoy/TshirtLC_TshirtGreyWLogoLrg_Prod_15
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1f70efd8d8e6c9c41b218663367c8f07
+    m_Address: TTBoy/TshirtLD_TshirtGreyWLogoLrg_Prod_15
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 47a0987e2b3c2fc44becf6d472c26f2d
+    m_Address: TTGirl/TshirtLB_TshirtGreyWLogoLrg_Prod_15
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ad78249a46491a44b892130268955322
+    m_Address: TTGirl/TshirtLC_TshirtGreyWLogoLrg_Prod_15
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2a6c50343fbd13b458fa9885ffe52788
+    m_Address: TTGirl/TshirtLD_TshirtGreyWLogoLrg_Prod_15
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9e5d332e3bfea254e8d3c28068052b51
+    m_Address: TTGirl/TshirtLA_TshirtGreyWLogoLrg_Prod_15
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e7893e43f43dc3d4492aa888054135fa, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0987815513a13424bb4011dd0e9a6e42, type: 2}
+    - {fileID: 11400000, guid: 1742bfc09b8f0354687e942a684c1d08, type: 2}

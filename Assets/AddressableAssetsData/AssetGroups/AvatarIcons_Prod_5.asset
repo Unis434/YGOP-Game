@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: AvatarIcons_Prod_5
+  m_EditorClassIdentifier: 
+  m_GroupName: AvatarIcons_Prod_5
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 0bd2b64c038479f45b2328351f41c4a5
+  m_SerializeEntries:
+  - m_GUID: 6cdf5e86135214e458532e4ef3257515
+    m_Address: TTBoy/TshirtLA_TshirtWhiteWLogoLrg_Prod_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3fe7ea4de98b82f47877fd6d68cc6e09
+    m_Address: TTBoy/TshirtLB_TshirtWhiteWLogoLrg_Prod_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3b294cabbf6898841b40058899922c4f
+    m_Address: TTBoy/TshirtLC_TshirtWhiteWLogoLrg_Prod_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c3842b0457d853342a3a0b82c7ce962b
+    m_Address: TTBoy/TshirtLD_TshirtWhiteWLogoLrg_Prod_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3229e962b95d6d342beefec26e7f5702
+    m_Address: TTGirl/TshirtLB_TshirtWhiteWLogoLrg_Prod_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 87b7142e795a9d942b2e98e79e72ed07
+    m_Address: TTGirl/TshirtLC_TshirtWhiteWLogoLrg_Prod_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 568de5db602fd3b47ac1d89ac2005131
+    m_Address: TTGirl/TshirtLD_TshirtWhiteWLogoLrg_Prod_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6b7b3a6baa9f8114591e7b03d4f01457
+    m_Address: TTGirl/TshirtLA_TshirtWhiteWLogoLrg_Prod_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e7893e43f43dc3d4492aa888054135fa, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 8b08454722902394194b4159fe28851a, type: 2}
+    - {fileID: 11400000, guid: 00f9a4384bdc2b24e916f63148d1b053, type: 2}

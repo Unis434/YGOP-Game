@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Common_1_3
+  m_EditorClassIdentifier: 
+  m_GroupName: Common_1_3
+  m_Data:
+    m_SerializedData: []
+  m_GUID: a4b7b04584cd76c4eb4f26505b0ac10a
+  m_SerializeEntries:
+  - m_GUID: da9f7d2f61debc443a10a50b862a0d57
+    m_Address: Assets/Prefabs/Ball_Chipping.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e7893e43f43dc3d4492aa888054135fa, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 277867f7116a29343b4ece3344b7fd77, type: 2}
+    - {fileID: 11400000, guid: 04124c49d656e6044a0c0d983e1ae8a1, type: 2}

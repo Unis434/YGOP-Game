@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: AvatarIcons_Prod_1
+  m_EditorClassIdentifier: 
+  m_GroupName: AvatarIcons_Prod_1
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f788206c9820ba144a4e53fcfefa2e09
+  m_SerializeEntries:
+  - m_GUID: 71b540df90d204e458de9bc106fc486b
+    m_Address: TTGirl/TshirtLD_TshirtWhiteWLogoLrg_Prod_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 12a19eeefb7335643b8b0ca991ff17fe
+    m_Address: TTBoy/TshirtLA_TshirtWhiteWLogoLrg_Prod_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4ab4877cf954e2a4d8d95559ec8645b1
+    m_Address: TTBoy/TshirtLD_TshirtWhiteWLogoLrg_Prod_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 83c359725aef8764e84fe2b7d99b3d18
+    m_Address: TTBoy/TshirtLB_TshirtWhiteWLogoLrg_Prod_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3b40580cd65299f439b34c1f30f44aab
+    m_Address: TTGirl/TshirtLB_TshirtWhiteWLogoLrg_Prod_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 39d6201ebfd78c045a7463c3725c7cfd
+    m_Address: TTBoy/TshirtLC_TshirtWhiteWLogoLrg_Prod_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6dc259ba730bd6744beb4839479e1e7b
+    m_Address: TTGirl/TshirtLA_TshirtWhiteWLogoLrg_Prod_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: caf2ec286dedebc4ca670cba3eab331e
+    m_Address: TTGirl/TshirtLC_TshirtWhiteWLogoLrg_Prod_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e7893e43f43dc3d4492aa888054135fa, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 95716351b129a3c458d7b2e4d8ea8b4a, type: 2}
+    - {fileID: 11400000, guid: 5313ff6ff0a225344a5ecf71e29c85c9, type: 2}

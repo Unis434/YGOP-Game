@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Common_3_4
+  m_EditorClassIdentifier: 
+  m_GroupName: Common_3_4
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f5a22e1bd4e8d3a42a00eade2dd515e2
+  m_SerializeEntries:
+  - m_GUID: b23587ee80508714c84f4bf124e71532
+    m_Address: Assets/Prefabs/BallPhysics_Putting.physicMaterial
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0a5519ddb59ae704094670813f0ce2fe
+    m_Address: Assets/Prefabs/Ball_Putting.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e7893e43f43dc3d4492aa888054135fa, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 61d677f91e167bb4299e9e5b34d549b2, type: 2}
+    - {fileID: 11400000, guid: 755434d5ae7be4647a7df99836add56d, type: 2}

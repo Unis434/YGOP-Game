@@ -1,0 +1,395 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Common_1_2_4
+  m_EditorClassIdentifier: 
+  m_GroupName: Common_1_2_4
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 71b65e04716a9d8479f783b044013852
+  m_SerializeEntries:
+  - m_GUID: f6719627c8a45d1459ff89b93a967b05
+    m_Address: Assets/PolygonNature/Textures/Leaves/Leaves_Generic_Texture.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d3a600439af714f4280d93e74cc75853
+    m_Address: Assets/PolygonNature/Materials/Leaves/PolygonNature_Leaves_Base.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1db8601c97565c84084b5b490940fae6
+    m_Address: Assets/PolygonNature/FX/FX_Prefabs/SM_Generic_SkyDome.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 14f4f60387c6fb64f954511f05df977f
+    m_Address: Assets/PolygonNature/Prefabs/Terrain/MountainSkybox.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b2a87f79a31d8c947bebe59a2b30fc81
+    m_Address: Assets/Scenes/MinigameDriving/Lightmap-3_comp_dir.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc9f550802bde56499ac8b64cac565f0
+    m_Address: Assets/PolygonNature/Prefabs/Trees/SM_Tree_Pine_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 035ff95bac2145d4cbb4185a773a43da
+    m_Address: Assets/PolygonNature/Models/LODS/SM_Tree_Birch_02_LOD_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0e2544c6274caef47abfc1d711ca6d7d
+    m_Address: Assets/Scenes/MinigameDriving/Lightmap-1_comp_dir.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 82e43ca3c60479049bf27c5eafbdbda5
+    m_Address: Assets/PolygonNature/Materials/Misc/PolygonNature_Clouds.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dfd02d6fb40caa342b25650fd2b303ec
+    m_Address: Assets/PolygonNature/Models/LODS/SM_Tree_Birch_01_LOD_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4b0390819f518774fa1a44198298459a
+    m_Address: Assets/PolygonNature/Shaders/SyntyStudios_Trees.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6678c7fa89ba4924594f7aeac14f8cbe
+    m_Address: Assets/Scenes/MinigameDriving/Lightmap-0_comp_light.exr
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3fb50d0818667374aab581a3799635a9
+    m_Address: Assets/PolygonNature/Models/LODS/SM_Tree_Pine_01_LOD_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: db2a2077dfe4333478775b28868c636f
+    m_Address: Assets/PolygonNature/Models/SM_Prop_Cloud_02.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: feab95a1ad51daa4caeb40403608aa12
+    m_Address: Assets/PolygonNature/Materials/Leaves/PolygonNature_Leaves_Pine.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 77ec3f183b65d3f40a29232869518f85
+    m_Address: Assets/PolygonNature/Prefabs/Props/SM_Prop_Cloud_02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff3dac0651eefa440a747dc2f0aa4fa0
+    m_Address: Assets/Prefabs/ScoreFadeText.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 47ac04e5b24338c44ba15b946641236c
+    m_Address: Assets/PolygonNature/Prefabs/Trees/SM_Tree_Birch_03.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f39199c5cc065234fa0c6db738bcdec2
+    m_Address: Assets/Textures/Ads/Sponsor_WalmartSign.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d54bd8accf19c04f87f4941592ac743
+    m_Address: Assets/Materials/Green.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fb87686c53fbcc24a867e24f6b622498
+    m_Address: Assets/PolygonNature/Materials/Misc/PolygonNature_MountainSkybox_Snow.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 94ed92c4b7ab4ba4d8d2dfee32c2c4ca
+    m_Address: Assets/PolygonNature/FX/FX_Models/SM_Generic_SkyDome.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f4e7b128e7896c348af6af33ed6b7a3b
+    m_Address: Assets/PolygonNature/Models/SM_Tree_Birch_02.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 546bad0daa583954eb55972d6afe64a0
+    m_Address: Assets/PolygonNature/Models/LODS/SM_Tree_Birch_03_LOD_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dbc549a480ae9f14caa84fa9e7b39cdc
+    m_Address: Assets/PolygonNature/Models/LODS/SM_Tree_Birch_04_LOD_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 11aaf81426f3aa34cb4e33facd95375e
+    m_Address: Assets/PolygonNature/Models/SM_Prop_Cloud_03.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f7bab630d067b814f8f72e58e6574f04
+    m_Address: Assets/Scenes/MinigameDriving/Lightmap-2_comp_light.exr
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3cf543484d2fb7347b203b934a632fa6
+    m_Address: Assets/PolygonNature/Textures/Ground_Textures/Grass.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 140c9e91ac4539649821eab7d078ccbd
+    m_Address: Assets/PolygonNature/Models/LODS/SM_Tree_Pine_02_LOD_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 560c0a7dfa0e79b4ab2a773af4c9b4d6
+    m_Address: Assets/Textures/Sign.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c92bdfd76ec29e743b9d716b78335338
+    m_Address: Assets/Scenes/MinigameDriving/LightingData.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2edd58f7c433e934db9029c375173b44
+    m_Address: Assets/PolygonNature/Textures/PolygonNature_01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4aaf5eafc291ee24ba7cefe12e6677a8
+    m_Address: Assets/PolygonNature/Textures/Misc/Noise_Big.tga
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0734397d1a4fd924f98424ecb4ca43b9
+    m_Address: Assets/PolygonNature/Prefabs/Trees/SM_Tree_Pine_02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 321763719c555ca4b8b5325341c81880
+    m_Address: Assets/Scenes/MinigameDriving/Lightmap-1_comp_light.exr
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1ea71f643417d124d91e53eae7c666a6
+    m_Address: Assets/PolygonNature/Prefabs/Trees/SM_Tree_Birch_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc5b6eba09de2524ba62622e5d8e2ec6
+    m_Address: Assets/PolygonNature/Textures/Leaves/Leaves_Pine_Texture.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bce0c9523691df448b83c8c972060b2c
+    m_Address: Assets/PolygonNature/Prefabs/Trees/SM_Tree_Birch_04.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3357a1db18fee1f4f8fab7bf6f39c214
+    m_Address: Assets/PolygonNature/Shaders/SyntyStudios_LOD.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1ad040f804be1b747a249fe91962f8ba
+    m_Address: Assets/Prefabs/Sign.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2698c91b3d213134aaf024e144ee5b31
+    m_Address: Assets/Prefabs/Ball_Driving.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6dc69bc2ed95a1940a1c476b792f2644
+    m_Address: Assets/PolygonNature/Prefabs/Props/SM_Prop_Cloud_03.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2242a6dee2856034b831a983d45aa5f1
+    m_Address: Assets/PolygonNature/Textures/Misc/Skybox_Normal.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1202e6a7c7a1de2499a2c339a4382c9e
+    m_Address: Assets/PolygonNature/Textures/Misc/Skybox_Diff.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 32a7d9275f65e894c84e0dcdcf05e4e0
+    m_Address: Assets/PolygonNature/Materials/LODS/PolygonNature_Leaves_Pine_LOD_01.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d782eb9dd0e7bf149bcc879a4da28434
+    m_Address: Assets/PolygonNature/Materials/LODS/PolygonNature_Leaves_Base_LOD_01.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a35e8e5d044c2034c9b49745fc5a0d77
+    m_Address: Assets/PolygonNature/Materials/Misc/Skydome_Day.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 99c4608ee9333d248989392de94081fd
+    m_Address: Assets/PolygonNature/Textures/Leaves/emissive.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d6b70bb73fc21e844828e1932e27f0d7
+    m_Address: Assets/PolygonNature/Models/SM_Prop_Cloud_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5514696c048ea514c8e0bbd59d370247
+    m_Address: Assets/PolygonNature/Models/SM_Tree_Pine_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1066d4d09ff91fb4a8034c98ce08305c
+    m_Address: Assets/PolygonNature/Models/SM_Tree_Pine_02.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: baa504bdc39ed4a4d89c24e64ae6b8e5
+    m_Address: Assets/PolygonNature/Textures/Leaves/Leaves_Generic_MaskTexture.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a26ca87d41acbcd44b47b6b6a93a9017
+    m_Address: Assets/Scenes/MinigameDriving/Lightmap-3_comp_light.exr
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2cf0eb47ceb99db44823ba36706e3d61
+    m_Address: Assets/Textures/HUD_BallMarker.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fefd59ec9a96d744aa1f9f12938abd4e
+    m_Address: Assets/PolygonNature/Shaders/SyntyStudios_SkyGradient.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be132297f8b493348ac55a521df31389
+    m_Address: Assets/PolygonNature/Models/Materials/Trunk.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dd1c3959cc08125438b89eecfa2c2a8f
+    m_Address: Assets/PolygonNature/Models/Materials/Leave.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d340581e3fa79c48b1401265c761387
+    m_Address: Assets/PolygonNature/Models/MountainSkybox.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2496bc026faf8cf4eba3885afbc38970
+    m_Address: Assets/Data/Mode_DriveTest.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ccb2545f0a1b98248ae14305439c4e13
+    m_Address: Assets/PolygonNature/Textures/Misc/Noise_Small.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5aba6ab4516f7ce46a83529e07bc6c46
+    m_Address: Assets/PolygonNature/Models/SM_Tree_Birch_03.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5206910ebd80aa945a90941f58bf7f05
+    m_Address: Assets/Prefabs/Goal.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e95d9f55c8227b144985e60c0f7e5956
+    m_Address: Assets/PolygonNature/Models/SM_Tree_Birch_04.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d6ff3a7c6f0f3da4485a2e443dfc8cdd
+    m_Address: Assets/Scenes/MinigameDriving/Lightmap-2_comp_dir.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc44d6f4efeaea24ab8f05389190f033
+    m_Address: Assets/Scenes/MinigameDriving/ReflectionProbe-0.exr
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5b8619cd77cebea4e8da3a08467ce1a9
+    m_Address: Assets/PolygonNature/Models/SM_Tree_Birch_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 44fe53d0e7db1d74b995e75b902e7295
+    m_Address: Assets/PolygonNature/Textures/Leaves/Birch_Trunk_Texture.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1000cad1907db004b8d52ddf62c1ae94
+    m_Address: Assets/PolygonNature/Prefabs/Trees/SM_Tree_Birch_02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6d596b82bd264574f87984c620459feb
+    m_Address: Assets/PolygonNature/Textures/Leaves/Leaves_Pine_MaskTexture.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9815abc3682332c43bb766decd901afb
+    m_Address: Assets/PolygonNature/Materials/PolygonNature_Tree_Trunk.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d7348193d18053242b67736aafdf8c03
+    m_Address: Assets/PolygonNature/Prefabs/Props/SM_Prop_Cloud_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f1f32f29dfea134ab0e644abdbd9aec
+    m_Address: Assets/Scenes/MinigameDriving/Lightmap-0_comp_dir.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4805e200de6180f468687703b0a1fada
+    m_Address: Assets/Materials/Grass.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 45f78d57c831abe43a9f7102116e69af
+    m_Address: Assets/PolygonNature/Materials/Misc/PolygonNature_Birch_Trunk.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e7893e43f43dc3d4492aa888054135fa, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 055c56202893c9642b7997813bb75098, type: 2}
+    - {fileID: 11400000, guid: bd0efb3f12eafdd46aa7357a1a2ff292, type: 2}

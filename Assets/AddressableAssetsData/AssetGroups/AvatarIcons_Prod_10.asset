@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: AvatarIcons_Prod_10
+  m_EditorClassIdentifier: 
+  m_GroupName: AvatarIcons_Prod_10
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 1187a68ebcc9b3243ae367138bcfb85f
+  m_SerializeEntries:
+  - m_GUID: 78f2011a82797df42bf41ce92ae38e6c
+    m_Address: TTBoy/TshirtLA_TshirtWhiteWLogoLrg_Prod_10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5dd94fcabd7746e469667121c74e6089
+    m_Address: TTBoy/TshirtLB_TshirtWhiteWLogoLrg_Prod_10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c20ef4f0aa5165c4aa377c18e4e81d5c
+    m_Address: TTBoy/TshirtLC_TshirtWhiteWLogoLrg_Prod_10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2857c7270fe26c54fb00f8f47b21ab5f
+    m_Address: TTBoy/TshirtLD_TshirtWhiteWLogoLrg_Prod_10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0a139288753e73c4caa2ba9e6a365c3b
+    m_Address: TTGirl/TshirtLB_TshirtWhiteWLogoLrg_Prod_10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 97c9fb6fe72ef3a4a99bb304cb8a1b96
+    m_Address: TTGirl/TshirtLC_TshirtWhiteWLogoLrg_Prod_10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8337205a6e6e9924281ec27e0e090456
+    m_Address: TTGirl/TshirtLD_TshirtWhiteWLogoLrg_Prod_10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 60b0e986ee2b8074abd86f8d1be89749
+    m_Address: TTGirl/TshirtLA_TshirtWhiteWLogoLrg_Prod_10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e7893e43f43dc3d4492aa888054135fa, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c930d1d5b977bd74281c6206fbfda3ac, type: 2}
+    - {fileID: 11400000, guid: dd3f2989681f5374ab3ad6872d23c6a7, type: 2}

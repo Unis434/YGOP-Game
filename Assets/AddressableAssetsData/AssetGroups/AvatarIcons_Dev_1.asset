@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: AvatarIcons_Dev_1
+  m_EditorClassIdentifier: 
+  m_GroupName: AvatarIcons_Dev_1
+  m_Data:
+    m_SerializedData: []
+  m_GUID: ea0b23f5df7156e42ab0fdc7a2d55409
+  m_SerializeEntries:
+  - m_GUID: 837d8d398d268244b829b4299213b081
+    m_Address: TTBoy/TshirtLA_TshirtWhiteWLogoLrg_Dev_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 66c8132f79533e04e9f02435ec2429a1
+    m_Address: TTBoy/TshirtLB_TshirtWhiteWLogoLrg_Dev_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 81336a17090d1b14fab8f68d6df46af7
+    m_Address: TTBoy/TshirtLC_TshirtWhiteWLogoLrg_Dev_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9237fe7da76347a43b0389c97ca895e6
+    m_Address: TTBoy/TshirtLD_TshirtWhiteWLogoLrg_Dev_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a18067f081eed1444a8d43ef0c7d4311
+    m_Address: TTGirl/TshirtLB_TshirtWhiteWLogoLrg_Dev_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9b9b463c29ccef343b5a9edd1f71b201
+    m_Address: TTGirl/TshirtLC_TshirtWhiteWLogoLrg_Dev_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ba3a568df6eb8974290f9074ed79f862
+    m_Address: TTGirl/TshirtLD_TshirtWhiteWLogoLrg_Dev_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4788065b81ed2bf4ab44fd4bc569ee83
+    m_Address: TTGirl/TshirtLA_TshirtWhiteWLogoLrg_Dev_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e7893e43f43dc3d4492aa888054135fa, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: e1ff4c164ac440c4997ce9d7bc120b0c, type: 2}
+    - {fileID: 11400000, guid: e6529c3ff56bb8f4784e76dc1574d8f7, type: 2}

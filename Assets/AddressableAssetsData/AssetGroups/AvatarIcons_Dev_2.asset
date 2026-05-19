@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: AvatarIcons_Dev_2
+  m_EditorClassIdentifier: 
+  m_GroupName: AvatarIcons_Dev_2
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f4cd768f4cbb3d945b650d085fb7d0e1
+  m_SerializeEntries:
+  - m_GUID: 601ad0541e8b3324b817eac85358523f
+    m_Address: TTBoy/TshirtLA_TshirtWhiteWLogoLrg_Dev_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1d41c0797cf51714ea4315b22cbdaf29
+    m_Address: TTBoy/TshirtLB_TshirtWhiteWLogoLrg_Dev_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fa28cab0d1b40fd43b118a7cf775aeea
+    m_Address: TTBoy/TshirtLC_TshirtWhiteWLogoLrg_Dev_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d1876f72e34a9bb4dbbb68e926ecad8e
+    m_Address: TTBoy/TshirtLD_TshirtWhiteWLogoLrg_Dev_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a717f05a5d5b8cb4ebc7c8cae24969bc
+    m_Address: TTGirl/TshirtLB_TshirtWhiteWLogoLrg_Dev_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8a75b51e2b1a9a14a96f40827c2cc2e0
+    m_Address: TTGirl/TshirtLC_TshirtWhiteWLogoLrg_Dev_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dc1f5d3950e36cb46b9bfd6f0be5e99b
+    m_Address: TTGirl/TshirtLD_TshirtWhiteWLogoLrg_Dev_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c1d7c32bd3024204599af146955aec6f
+    m_Address: TTGirl/TshirtLA_TshirtWhiteWLogoLrg_Dev_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e7893e43f43dc3d4492aa888054135fa, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 03bf70002d01aa3418db4abdd98560bc, type: 2}
+    - {fileID: 11400000, guid: c04da44f56d30d44a96815c20060e390, type: 2}

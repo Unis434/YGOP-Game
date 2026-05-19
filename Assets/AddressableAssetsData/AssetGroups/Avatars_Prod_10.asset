@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Avatars_Prod_10
+  m_EditorClassIdentifier: 
+  m_GroupName: Avatars_Prod_10
+  m_Data:
+    m_SerializedData: []
+  m_GUID: d7d2534126f0f594eaa97ad80c6ab7f2
+  m_SerializeEntries:
+  - m_GUID: 6b1bbfe9bc8655b4f9a8922a05992767
+    m_Address: TTBoy_Prod_10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 730107c13ed6947479b9ee0c19cd960c
+    m_Address: TTGirl_Prod_10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bc3b1caddadff9944860636af6d3fe8f
+    m_Address: TTBTshirtWhiteWLogoLrg_Front_Prod_10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fe25c903e966a754bbab167859e448ea
+    m_Address: TTGTshirtWhiteWLogoLrg_Front_Prod_10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 951751285a55f744fb1f95202904f831
+    m_Address: TTGTshirtWhiteWLogoLrg_FrontLower_Prod_10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e7893e43f43dc3d4492aa888054135fa, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 62ce6f49c1413644e9db8a435c686d4d, type: 2}
+    - {fileID: 11400000, guid: dcb8be917b327f043a2aa07b98919b2c, type: 2}

@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: AvatarIcons_Prod_13
+  m_EditorClassIdentifier: 
+  m_GroupName: AvatarIcons_Prod_13
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 4e287a76191d89f4699964eba9312086
+  m_SerializeEntries:
+  - m_GUID: 63d712a97c7099541bb69355c095540d
+    m_Address: TTBoy/TshirtLA_TshirtBlackWLogoLrg_Prod_13
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 26a1b6ba4a84c474e80f7d109d7e37e2
+    m_Address: TTBoy/TshirtLB_TshirtBlackWLogoLrg_Prod_13
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a308bf65511602541a9f996395ee4360
+    m_Address: TTBoy/TshirtLC_TshirtBlackWLogoLrg_Prod_13
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 59bd68ef5d2e62d4a942678d21ddad38
+    m_Address: TTBoy/TshirtLD_TshirtBlackWLogoLrg_Prod_13
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0ef9c41f40b6bdf4689859a4fb47f694
+    m_Address: TTGirl/TshirtLB_TshirtBlackWLogoLrg_Prod_13
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d1aa582a13c20f14cbfe1e40fd3e9dde
+    m_Address: TTGirl/TshirtLC_TshirtBlackWLogoLrg_Prod_13
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 513ee60c0752e5c4791481b19683a3f7
+    m_Address: TTGirl/TshirtLD_TshirtBlackWLogoLrg_Prod_13
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 25a0002fcc8dfdb4eb3e0760a6713c6e
+    m_Address: TTGirl/TshirtLA_TshirtBlackWLogoLrg_Prod_13
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e7893e43f43dc3d4492aa888054135fa, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d4fbadd2f74459c488da258bf53f8b80, type: 2}
+    - {fileID: 11400000, guid: bd53f24ed2291e6468d806d078c06dd2, type: 2}

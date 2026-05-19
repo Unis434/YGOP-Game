@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: AvatarIcons_Prod_6
+  m_EditorClassIdentifier: 
+  m_GroupName: AvatarIcons_Prod_6
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 433fbf83a733e21488fbda88ef519f2b
+  m_SerializeEntries:
+  - m_GUID: 01355d432adf0274d8ce562003e11cc9
+    m_Address: TTBoy/TshirtLA_TshirtWhiteWLogoLrg_Prod_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e241cb02c8479564fa4c81f1c675d419
+    m_Address: TTBoy/TshirtLB_TshirtWhiteWLogoLrg_Prod_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 94939537664a4784394415818e9232ac
+    m_Address: TTBoy/TshirtLC_TshirtWhiteWLogoLrg_Prod_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 603038d44977f4f4b97d342bbcd28493
+    m_Address: TTBoy/TshirtLD_TshirtWhiteWLogoLrg_Prod_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e423606b47e4225409206262358a6228
+    m_Address: TTGirl/TshirtLB_TshirtWhiteWLogoLrg_Prod_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 52d04d125f67ddc468abd12dc6a1a732
+    m_Address: TTGirl/TshirtLC_TshirtWhiteWLogoLrg_Prod_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2fc31267f077f1b44b408cd4ca20863f
+    m_Address: TTGirl/TshirtLD_TshirtWhiteWLogoLrg_Prod_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c8c4ac4517764a5478cd29d21c80676c
+    m_Address: TTGirl/TshirtLA_TshirtWhiteWLogoLrg_Prod_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e7893e43f43dc3d4492aa888054135fa, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 600f6d12960077a449e5f725a9c7f053, type: 2}
+    - {fileID: 11400000, guid: 4898db44431aacd4b9d5285339bafc29, type: 2}
