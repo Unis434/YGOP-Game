@@ -1,0 +1,202 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9c4a11d7f62a0a449cef7291b620d27, type: 3}
+  m_Name: Mode_ChipTest
+  m_EditorClassIdentifier: 
+  id: CHIPPING_TEST
+  title: Chipping Challenge
+  description: Drive the ball.
+  image: {fileID: 21300000, guid: b1c6aa62b816f6248a0a9c73d722df34, type: 3}
+  typeName: Chipping
+  goal: Stationary Pin
+  scene: MinigameChipping
+  modeType: 1
+  timeLimit: 0
+  shotLimit: 0
+  holes: 3
+  gameplaySettings:
+    distanceSettings:
+      mode: 0
+      min: 0
+      max: 1
+      start: 0
+      step: 1
+      stepsMax: 1
+      stepBackAmount: 1
+      stepBackMisses: 1
+    goalDiameterSettings:
+      mode: 0
+      min: 0
+      max: 1
+      start: 0
+      step: 1
+      stepsMax: 1
+      stepBackAmount: 1
+      stepBackMisses: 1
+    netModeGoal: 0
+    powerGoalSettings:
+      mode: 0
+      min: 0
+      max: 1
+      start: 0
+      step: 1
+      stepsMax: 1
+      stepBackAmount: 1
+      stepBackMisses: 1
+    powerGoalTolerance: 0.5
+    scoreMake: 1100
+    scoreTarget: e8030000
+    scoreCloseMax: 750
+    distanceStepMultiplier: 1
+    goalDiameterStepMultiplier: 1
+    streakMultiplier: 1.1
+    goodScore: 600
+    greatScore: 1000
+    cameraFollowBall: 1
+    scoreDelay: 2
+    scoreText: {fileID: 8661929227344581742, guid: ff3dac0651eefa440a747dc2f0aa4fa0,
+      type: 3}
+    allowedClubs:
+    - {fileID: 11400000, guid: 53f9994b1364b064d85511a012490b8d, type: 2}
+    allowClubSwitching: 0
+  driveSettings:
+    distanceSettings:
+      mode: 0
+      min: 0
+      max: 1
+      start: 0
+      step: 1
+      stepsMax: 1
+      stepBackAmount: 1
+      stepBackMisses: 1
+    goalDiameterSettings:
+      mode: 0
+      min: 0
+      max: 1
+      start: 0
+      step: 1
+      stepsMax: 1
+      stepBackAmount: 1
+      stepBackMisses: 1
+    netModeGoal: 0
+    powerGoalSettings:
+      mode: 0
+      min: 0
+      max: 1
+      start: 0
+      step: 1
+      stepsMax: 1
+      stepBackAmount: 1
+      stepBackMisses: 1
+    powerGoalTolerance: 0.5
+    scoreMake: 1000
+    scoreTarget: 
+    scoreCloseMax: 750
+    distanceStepMultiplier: 1
+    goalDiameterStepMultiplier: 1
+    streakMultiplier: 1
+    goodScore: 200
+    greatScore: 500
+    cameraFollowBall: 1
+    scoreDelay: 2
+    scoreText: {fileID: 0}
+    allowedClubs: []
+    allowClubSwitching: 0
+  chipSettings:
+    distanceSettings:
+      mode: 0
+      min: 0
+      max: 1
+      start: 0
+      step: 1
+      stepsMax: 1
+      stepBackAmount: 1
+      stepBackMisses: 1
+    goalDiameterSettings:
+      mode: 0
+      min: 0
+      max: 1
+      start: 0
+      step: 1
+      stepsMax: 1
+      stepBackAmount: 1
+      stepBackMisses: 1
+    netModeGoal: 0
+    powerGoalSettings:
+      mode: 0
+      min: 0
+      max: 1
+      start: 0
+      step: 1
+      stepsMax: 1
+      stepBackAmount: 1
+      stepBackMisses: 1
+    powerGoalTolerance: 0.5
+    scoreMake: 1000
+    scoreTarget: 
+    scoreCloseMax: 750
+    distanceStepMultiplier: 1
+    goalDiameterStepMultiplier: 1
+    streakMultiplier: 1
+    goodScore: 200
+    greatScore: 500
+    cameraFollowBall: 1
+    scoreDelay: 2
+    scoreText: {fileID: 0}
+    allowedClubs: []
+    allowClubSwitching: 0
+  puttSettings:
+    distanceSettings:
+      mode: 0
+      min: 0
+      max: 1
+      start: 0
+      step: 1
+      stepsMax: 1
+      stepBackAmount: 1
+      stepBackMisses: 1
+    goalDiameterSettings:
+      mode: 0
+      min: 0
+      max: 1
+      start: 0
+      step: 1
+      stepsMax: 1
+      stepBackAmount: 1
+      stepBackMisses: 1
+    netModeGoal: 0
+    powerGoalSettings:
+      mode: 0
+      min: 0
+      max: 1
+      start: 0
+      step: 1
+      stepsMax: 1
+      stepBackAmount: 1
+      stepBackMisses: 1
+    powerGoalTolerance: 0.5
+    scoreMake: 1000
+    scoreTarget: 
+    scoreCloseMax: 750
+    distanceStepMultiplier: 1
+    goalDiameterStepMultiplier: 1
+    streakMultiplier: 1
+    goodScore: 200
+    greatScore: 500
+    cameraFollowBall: 1
+    scoreDelay: 2
+    scoreText: {fileID: 0}
+    allowedClubs: []
+    allowClubSwitching: 0
+  oneStarMin: 100
+  twoStarMin: 2000
+  threeStarMin: 5000

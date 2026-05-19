@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 399a2f2140a566b4f987062cf32fbbad, type: 3}
+  m_Name: GenerateTextureSettingsWhite
+  m_EditorClassIdentifier: 
+  mainPrefabs:
+  - {fileID: 9212031861238264227, guid: f07f01a00c98a224a81d093de1aa8d6a, type: 3}
+  - {fileID: 4612047744697386361, guid: c8c81c0b0ce2b4f4d857c2dd944baa0a, type: 3}
+  textureBodies:
+  - captureScene: Assets/Scenes/ImageCaptureBoy.unity
+    basePrefab: {fileID: 9212031861238264227, guid: f8ce641e22c64814e8965554281df83f,
+      type: 3}
+    items:
+    - category: Chest
+      collection: Shirts
+      textures:
+      - idPrefix: TshirtWhiteWLogoLrg
+        imagePath: Assets\ToonTeens\textures\TshirtBWhite.png
+        boundsPath: LogoImages\Boundry-Box-tshirt-Boy-FRONT.png
+        outputPrefix: TTBTshirtWhiteWLogoLrg_Front
+        baseMaterial: {fileID: 2100000, guid: 7f2be751617d3d04b9a5046abe9f1a79, type: 2}
+  - captureScene: Assets/Scenes/ImageCaptureGirl.unity
+    basePrefab: {fileID: 4612047744697386361, guid: 62b8dac529a436d439354794801b9f9b,
+      type: 3}
+    items:
+    - category: Chest
+      collection: Shirts
+      textures:
+      - idPrefix: TshirtWhiteWLogoLrg
+        imagePath: Assets\ToonTeens\textures\TshirtGWhite.png
+        boundsPath: LogoImages\Boundry-Box-tshirt-Girl-FRONT.png
+        outputPrefix: TTGTshirtWhiteWLogoLrg_Front
+        baseMaterial: {fileID: 2100000, guid: 7f2be751617d3d04b9a5046abe9f1a79, type: 2}
+    - category: Chest
+      collection: ShirtsLow
+      textures:
+      - idPrefix: TshirtWhiteWLogoLrg
+        imagePath: Assets\ToonTeens\textures\TshirtGWhite.png
+        boundsPath: LogoImages\Boundry-Box-tshirt-Girl-FRONT-LOWER.png
+        outputPrefix: TTGTshirtWhiteWLogoLrg_FrontLower
+        baseMaterial: {fileID: 2100000, guid: 7f2be751617d3d04b9a5046abe9f1a79, type: 2}

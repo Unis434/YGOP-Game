@@ -1,0 +1,212 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9c4a11d7f62a0a449cef7291b620d27, type: 3}
+  m_Name: Mode_DriveChipPuttIndoorConstant
+  m_EditorClassIdentifier: 
+  id: DriveChipPuttIndoorConstant
+  title: Indoor Drive, Chip, Putt 1
+  description: Drive, Chip, and Putt for most points.
+  image: {fileID: 21300000, guid: 4ca7a5d4590fe074f86b59828be78194, type: 3}
+  typeName: Driving
+  goal: Same Target
+  scene: MinigameGym
+  modeType: 4
+  timeLimit: 0
+  shotLimit: 15
+  makesRequired: 0
+  holes: 3
+  gameplaySettings:
+    distanceSettings:
+      mode: 0
+      min: 0
+      max: 1
+      start: 0
+      step: 1
+      stepsMax: 1
+      stepBackAmount: 1
+      stepMakes: 1
+      stepBackMisses: 1
+    goalDiameterSettings:
+      mode: 0
+      min: 0
+      max: 1
+      start: 0
+      step: 1
+      stepsMax: 1
+      stepBackAmount: 1
+      stepMakes: 1
+      stepBackMisses: 1
+    netModeGoal: 0
+    powerGoalSettings:
+      mode: 0
+      min: 0
+      max: 1
+      start: 0
+      step: 1
+      stepsMax: 1
+      stepBackAmount: 1
+      stepMakes: 1
+      stepBackMisses: 1
+    powerGoalTolerance: 0.5
+    scoreMake: 1000
+    scoreTarget: 
+    scoreCloseMax: 750
+    distanceStepMultiplier: 1
+    goalDiameterStepMultiplier: 1
+    powerGoalStepMultiplier: 1
+    streakMultiplier: 1
+    scoreDelay: 2
+    goodScore: 200
+    greatScore: 500
+    allowedClubs: []
+    allowClubSwitching: 0
+  driveSettings:
+    distanceSettings:
+      mode: 0
+      min: 0
+      max: 1
+      start: 0
+      step: 1
+      stepsMax: 1
+      stepBackAmount: 1
+      stepMakes: 1
+      stepBackMisses: 1
+    goalDiameterSettings:
+      mode: 0
+      min: 0
+      max: 1
+      start: 0
+      step: 1
+      stepsMax: 1
+      stepBackAmount: 1
+      stepMakes: 1
+      stepBackMisses: 1
+    netModeGoal: 2
+    powerGoalSettings:
+      mode: 1
+      min: 0.6
+      max: 0.6
+      start: 0
+      step: 1
+      stepsMax: 1
+      stepBackAmount: 1
+      stepMakes: 1
+      stepBackMisses: 1
+    powerGoalTolerance: 0.375
+    scoreMake: 1000
+    scoreTarget: 
+    scoreCloseMax: 10000
+    distanceStepMultiplier: 1
+    goalDiameterStepMultiplier: 1
+    powerGoalStepMultiplier: 1
+    streakMultiplier: 1.1
+    scoreDelay: 2
+    goodScore: 5000
+    greatScore: 8000
+    allowedClubs:
+    - {fileID: 11400000, guid: dbbe09ec849d4f24b8d64fbd073f69dd, type: 2}
+    allowClubSwitching: 0
+  chipSettings:
+    distanceSettings:
+      mode: 0
+      min: 0
+      max: 1
+      start: 0
+      step: 1
+      stepsMax: 1
+      stepBackAmount: 1
+      stepMakes: 1
+      stepBackMisses: 1
+    goalDiameterSettings:
+      mode: 0
+      min: 0
+      max: 1
+      start: 0
+      step: 1
+      stepsMax: 1
+      stepBackAmount: 1
+      stepMakes: 1
+      stepBackMisses: 1
+    netModeGoal: 0
+    powerGoalSettings:
+      mode: 0
+      min: 0
+      max: 1
+      start: 0
+      step: 1
+      stepsMax: 1
+      stepBackAmount: 1
+      stepMakes: 1
+      stepBackMisses: 1
+    powerGoalTolerance: 0.5
+    scoreMake: 11000
+    scoreTarget: 10270000
+    scoreCloseMax: 7500
+    distanceStepMultiplier: 1
+    goalDiameterStepMultiplier: 1
+    powerGoalStepMultiplier: 1
+    streakMultiplier: 1.1
+    scoreDelay: 2
+    goodScore: 5000
+    greatScore: 8000
+    allowedClubs:
+    - {fileID: 11400000, guid: 53f9994b1364b064d85511a012490b8d, type: 2}
+    allowClubSwitching: 0
+  puttSettings:
+    distanceSettings:
+      mode: 1
+      min: 2
+      max: 2
+      start: 0
+      step: 1
+      stepsMax: 1
+      stepBackAmount: 1
+      stepMakes: 1
+      stepBackMisses: 1
+    goalDiameterSettings:
+      mode: 0
+      min: 0
+      max: 1
+      start: 0
+      step: 1
+      stepsMax: 1
+      stepBackAmount: 1
+      stepMakes: 1
+      stepBackMisses: 1
+    netModeGoal: 0
+    powerGoalSettings:
+      mode: 0
+      min: 0
+      max: 1
+      start: 0
+      step: 1
+      stepsMax: 1
+      stepBackAmount: 1
+      stepMakes: 1
+      stepBackMisses: 1
+    powerGoalTolerance: 0.5
+    scoreMake: 10000
+    scoreTarget: 
+    scoreCloseMax: 750
+    distanceStepMultiplier: 1
+    goalDiameterStepMultiplier: 1
+    powerGoalStepMultiplier: 1
+    streakMultiplier: 1.1
+    scoreDelay: 2
+    goodScore: 5000
+    greatScore: 8000
+    allowedClubs:
+    - {fileID: 11400000, guid: 725e236051ad62d439c05820d851f058, type: 2}
+    allowClubSwitching: 0
+  oneStarMin: 40000
+  twoStarMin: 90000
+  threeStarMin: 160000

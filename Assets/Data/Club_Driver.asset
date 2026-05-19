@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cde794c1c896914db1bc5d1e20b2e29, type: 3}
+  m_Name: Club_Driver
+  m_EditorClassIdentifier: 
+  diaplayName: Driver
+  icon: {fileID: 21300000, guid: 05d69086b5a699a4c92516212f7443c1, type: 3}
+  prefab: {fileID: 403790916885972886, guid: b0ba32697db9f2f49acc62d1224edb72, type: 3}
+  attachName: Driver
+  animIndex: 0
+  hitSound: Drive
+  shotAngle: 45
+  maxPower: 30
+  sideMaxAngle: 30
