@@ -1,0 +1,173 @@
+[
+  {
+    "xpToNext": 450,
+    "rewards": [
+      {
+        "rewardType": 0,
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "xpToNext": 625,
+    "rewards": [
+      {
+        "rewardType": 0,
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "xpToNext": 800,
+    "rewards": [
+      {
+        "rewardType": 0,
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "xpToNext": 1000,
+    "rewards": [
+      {
+        "rewardType": 0,
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "xpToNext": 1200,
+    "rewards": [
+      {
+        "rewardType": 0,
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "xpToNext": 1400,
+    "rewards": [
+      {
+        "rewardType": 0,
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "xpToNext": 1650,
+    "rewards": [
+      {
+        "rewardType": 0,
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "xpToNext": 1900,
+    "rewards": [
+      {
+        "rewardType": 0,
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "xpToNext": 2150,
+    "rewards": [
+      {
+        "rewardType": 0,
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "xpToNext": 2450,
+    "rewards": [
+      {
+        "rewardType": 0,
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "xpToNext": 2750,
+    "rewards": [
+      {
+        "rewardType": 0,
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "xpToNext": 3050,
+    "rewards": [
+      {
+        "rewardType": 0,
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "xpToNext": 3400,
+    "rewards": [
+      {
+        "rewardType": 0,
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "xpToNext": 3750,
+    "rewards": [
+      {
+        "rewardType": 0,
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "xpToNext": 4100,
+    "rewards": [
+      {
+        "rewardType": 0,
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "xpToNext": 4500,
+    "rewards": [
+      {
+        "rewardType": 0,
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "xpToNext": 4900,
+    "rewards": [
+      {
+        "rewardType": 0,
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "xpToNext": 5300,
+    "rewards": [
+      {
+        "rewardType": 0,
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "xpToNext": 5750,
+    "rewards": [
+      {
+        "rewardType": 0,
+        "amount": 100
+      }
+    ]
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "taskType": 1,
+    "id": "ChipIndoorRings3Streak",
+    "xpFirstTime": 100,
+    "xpPerStar": [
+      100
+    ],
+    "coinsPerStar": [
+      75
+    ]
+  },
+  {
+    "taskType": 1,
+    "id": "DriveIndoorBothIncreaseStreak",
+    "xpFirstTime": 100,
+    "xpPerStar": [
+      100
+    ],
+    "coinsPerStar": [
+      75
+    ]
+  },
+  {
+    "taskType": 1,
+    "id": "DriveIndoorBothVariableStreak",
+    "xpFirstTime": 100,
+    "xpPerStar": [
+      100
+    ],
+    "coinsPerStar": [
+      75
+    ]
+  },
+  {
+    "taskType": 1,
+    "id": "PuttIndoorIncreaseStreak",
+    "xpFirstTime": 100,
+    "xpPerStar": [
+      100
+    ],
+    "coinsPerStar": [
+      75
+    ]
+  },
+  {
+    "taskType": 1,
+    "id": "ChipIndoorRings2Streak",
+    "xpFirstTime": 100,
+    "xpPerStar": [
+      100
+    ],
+    "coinsPerStar": [
+      75
+    ]
+  },
+  {
+    "taskType": 1,
+    "id": "DriveChipPuttIndoorConstant",
+    "xpFirstTime": 100,
+    "xpPerStar": [
+      100
+    ],
+    "coinsPerStar": [
+      75
+    ]
+  },
+  {
+    "taskType": 1,
+    "id": "DriveChipPuttIndoorIncrease",
+    "xpFirstTime": 100,
+    "xpPerStar": [
+      100
+    ],
+    "coinsPerStar": [
+      75
+    ]
+  },
+  {
+    "taskType": 1,
+    "id": "DriveChipPuttIndoorVariable",
+    "xpFirstTime": 100,
+    "xpPerStar": [
+      100
+    ],
+    "coinsPerStar": [
+      75
+    ]
+  },
+  {
+    "taskType": 1,
+    "id": "PuttOutdoorVariableStreak",
+    "xpFirstTime": 100,
+    "xpPerStar": [
+      100
+    ],
+    "coinsPerStar": [
+      75
+    ]
+  },
+  {
+    "taskType": 1,
+    "id": "ChipOutdoorMediumVariableStreak",
+    "xpFirstTime": 100,
+    "xpPerStar": [
+      100
+    ],
+    "coinsPerStar": [
+      75
+    ]
+  },
+  {
+    "taskType": 1,
+    "id": "ChipOutdoorLongVariableStreak",
+    "xpFirstTime": 100,
+    "xpPerStar": [
+      100
+    ],
+    "coinsPerStar": [
+      75
+    ]
+  },
+  {
+    "taskType": 1,
+    "id": "DriveOutdoorConstantStreak",
+    "xpFirstTime": 100,
+    "xpPerStar": [
+      100
+    ],
+    "coinsPerStar": [
+      75
+    ]
+  },
+  {
+    "taskType": 1,
+    "id": "DriveOutdoorVariableStreak",
+    "xpFirstTime": 100,
+    "xpPerStar": [
+      100
+    ],
+    "coinsPerStar": [
+      75
+    ]
+  }
+]

@@ -1,0 +1,343 @@
+[
+  {
+    "taskType": 1,
+    "id": "DriveIndoorDirection",
+    "xpFirstTime": 300,
+    "xpPerStar": [
+      100
+    ],
+    "coinsPerStar": [
+      50
+    ]
+  },
+  {
+    "taskType": 1,
+    "id": "DriveIndoorPowerConstantStreak",
+    "xpFirstTime": 300,
+    "xpPerStar": [
+      100
+    ],
+    "coinsPerStar": [
+      50
+    ]
+  },
+  {
+    "taskType": 1,
+    "id": "DriveIndoorPowerConstantMakes",
+    "xpFirstTime": 300,
+    "xpPerStar": [
+      100
+    ],
+    "coinsPerStar": [
+      50
+    ]
+  },
+  {
+    "taskType": 1,
+    "id": "PuttIndoorConstantStreak",
+    "xpFirstTime": 300,
+    "xpPerStar": [
+      100
+    ],
+    "coinsPerStar": [
+      50
+    ]
+  },
+  {
+    "taskType": 1,
+    "id": "PuttIndoorConstantMakes",
+    "xpFirstTime": 300,
+    "xpPerStar": [
+      100
+    ],
+    "coinsPerStar": [
+      50
+    ]
+  },
+  {
+    "taskType": 1,
+    "id": "ChipIndoorGreenStreak",
+    "xpFirstTime": 300,
+    "xpPerStar": [
+      100
+    ],
+    "coinsPerStar": [
+      50
+    ]
+  },
+  {
+    "taskType": 1,
+    "id": "ChipIndoorGreenMakes",
+    "xpFirstTime": 300,
+    "xpPerStar": [
+      100
+    ],
+    "coinsPerStar": [
+      50
+    ]
+  },
+  {
+    "taskType": 1,
+    "id": "DriveIndoorPowerIncreaseStreak",
+    "xpFirstTime": 300,
+    "xpPerStar": [
+      100
+    ],
+    "coinsPerStar": [
+      50
+    ]
+  },
+  {
+    "taskType": 1,
+    "id": "DriveIndoorPowerIncreaseMakes",
+    "xpFirstTime": 300,
+    "xpPerStar": [
+      100
+    ],
+    "coinsPerStar": [
+      50
+    ]
+  },
+  {
+    "taskType": 1,
+    "id": "DriveIndoorPowerVariableStreak",
+    "xpFirstTime": 300,
+    "xpPerStar": [
+      100
+    ],
+    "coinsPerStar": [
+      50
+    ]
+  },
+  {
+    "taskType": 1,
+    "id": "DriveIndoorPowerVariableMakes",
+    "xpFirstTime": 300,
+    "xpPerStar": [
+      100
+    ],
+    "coinsPerStar": [
+      50
+    ]
+  },
+  {
+    "taskType": 1,
+    "id": "PuttIndoorIncreaseStreak",
+    "xpFirstTime": 300,
+    "xpPerStar": [
+      100
+    ],
+    "coinsPerStar": [
+      50
+    ]
+  },
+  {
+    "taskType": 1,
+    "id": "PuttIndoorIncreaseMakes",
+    "xpFirstTime": 300,
+    "xpPerStar": [
+      100
+    ],
+    "coinsPerStar": [
+      50
+    ]
+  },
+  {
+    "taskType": 1,
+    "id": "ChipIndoorRings3Streak",
+    "xpFirstTime": 300,
+    "xpPerStar": [
+      100
+    ],
+    "coinsPerStar": [
+      50
+    ]
+  },
+  {
+    "taskType": 1,
+    "id": "DriveIndoorBothIncreaseStreak",
+    "xpFirstTime": 300,
+    "xpPerStar": [
+      100
+    ],
+    "coinsPerStar": [
+      50
+    ]
+  },
+  {
+    "taskType": 1,
+    "id": "DriveIndoorBothVariableStreak",
+    "xpFirstTime": 300,
+    "xpPerStar": [
+      100
+    ],
+    "coinsPerStar": [
+      50
+    ]
+  },
+  {
+    "taskType": 1,
+    "id": "DriveIndoorBothVariableMakes",
+    "xpFirstTime": 300,
+    "xpPerStar": [
+      100
+    ],
+    "coinsPerStar": [
+      50
+    ]
+  },
+  {
+    "taskType": 1,
+    "id": "PuttIndoorVariableStreak",
+    "xpFirstTime": 300,
+    "xpPerStar": [
+      100
+    ],
+    "coinsPerStar": [
+      50
+    ]
+  },
+  {
+    "taskType": 1,
+    "id": "PuttIndoorVariableMakes",
+    "xpFirstTime": 300,
+    "xpPerStar": [
+      100
+    ],
+    "coinsPerStar": [
+      50
+    ]
+  },
+  {
+    "taskType": 1,
+    "id": "ChipIndoorRings2Streak",
+    "xpFirstTime": 300,
+    "xpPerStar": [
+      100
+    ],
+    "coinsPerStar": [
+      50
+    ]
+  },
+  {
+    "taskType": 1,
+    "id": "ChipIndoorRings2Makes",
+    "xpFirstTime": 300,
+    "xpPerStar": [
+      100
+    ],
+    "coinsPerStar": [
+      50
+    ]
+  },
+  {
+    "taskType": 1,
+    "id": "DriveChipPuttIndoorConstant",
+    "xpFirstTime": 300,
+    "xpPerStar": [
+      100
+    ],
+    "coinsPerStar": [
+      50
+    ]
+  },
+  {
+    "taskType": 1,
+    "id": "DriveChipPuttIndoorIncrease",
+    "xpFirstTime": 300,
+    "xpPerStar": [
+      100
+    ],
+    "coinsPerStar": [
+      50
+    ]
+  },
+  {
+    "taskType": 1,
+    "id": "DriveChipPuttIndoorVariable",
+    "xpFirstTime": 300,
+    "xpPerStar": [
+      100
+    ],
+    "coinsPerStar": [
+      50
+    ]
+  },
+  {
+    "taskType": 1,
+    "id": "PuttOutdoorVariableStreak",
+    "xpFirstTime": 300,
+    "xpPerStar": [
+      100
+    ],
+    "coinsPerStar": [
+      50
+    ]
+  },
+  {
+    "taskType": 1,
+    "id": "PuttOutdoorVariableMakes",
+    "xpFirstTime": 300,
+    "xpPerStar": [
+      100
+    ],
+    "coinsPerStar": [
+      50
+    ]
+  },
+  {
+    "taskType": 1,
+    "id": "ChipOutdoorMediumVariableStreak",
+    "xpFirstTime": 300,
+    "xpPerStar": [
+      100
+    ],
+    "coinsPerStar": [
+      50
+    ]
+  },
+  {
+    "taskType": 1,
+    "id": "ChipOutdoorLongVariableStreak",
+    "xpFirstTime": 300,
+    "xpPerStar": [
+      100
+    ],
+    "coinsPerStar": [
+      50
+    ]
+  },
+  {
+    "taskType": 1,
+    "id": "ChipOutdoorVariableMakes",
+    "xpFirstTime": 300,
+    "xpPerStar": [
+      100
+    ],
+    "coinsPerStar": [
+      50
+    ]
+  },
+  {
+    "taskType": 1,
+    "id": "DriveOutdoorConstantStreak",
+    "xpFirstTime": 300,
+    "xpPerStar": [
+      100
+    ],
+    "coinsPerStar": [
+      50
+    ]
+  },
+  {
+    "taskType": 1,
+    "id": "DriveOutdoorVariableStreak",
+    "xpFirstTime": 300,
+    "xpPerStar": [
+      100
+    ],
+    "coinsPerStar": [
+      50
+    ]
+  }
+]
