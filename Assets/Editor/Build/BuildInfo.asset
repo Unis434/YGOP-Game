@@ -1,0 +1,280 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e101e7a4f0855514ebe7c9a659dab8a7, type: 3}
+  m_Name: BuildInfo
+  m_EditorClassIdentifier: 
+  ProjectName: YGOP
+  gameList:
+  - name: AndroidDev
+    description: AndroidDev
+    productName: Golfers Gym
+    buildName: GolfersGym
+    icon: {fileID: 0}
+    setAllIcons: 1
+    iconOverrides:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    scenes:
+    - {fileID: 102900000, guid: bdaf7b23ca08d9a4f94f7f1eb37f655f, type: 3}
+    - {fileID: 102900000, guid: 2628801c8624a5846952bf2b219d60ad, type: 3}
+    - {fileID: 102900000, guid: 26f90714b1aff0b4ab9dec37e2c84763, type: 3}
+    - {fileID: 102900000, guid: c58ab840ca4eeca44a9fd8efc69fd294, type: 3}
+    - {fileID: 102900000, guid: f1cecda28b0d08a4e84e308ecb6924e3, type: 3}
+    - {fileID: 102900000, guid: 8f7b370a479893e40b7ceb9ea6edaf15, type: 3}
+    - {fileID: 102900000, guid: 2a2625451054a0449b5c3e2d9d1a70ce, type: 3}
+    targetGroup: 7
+    target: 13
+    useSteamworks: 0
+    defineSymbols: 
+    appID: 
+    depotID: 
+    manifestPath: 
+    productID: 
+    paramPath: 
+    trophyPath: 
+    titlePath: 
+    isPatch: 0
+    initialPkgPath: 
+    latestPkgPath: 
+    changeinfoFolder: 
+    packageName: org.youthgolfersoutreachprogram.golfgame
+    exportProject: 0
+    buildAppBundle: 0
+    modifyXCodeProject: 0
+    gameSettings: {fileID: 11400000, guid: 2af5c8f9af9c61545bb5b8f86c72c5d4, type: 2}
+    versionInfo: {fileID: 0}
+  - name: AndroidDevLocal
+    description: AndroidDevLocal
+    productName: Golfers Gym
+    buildName: GolfersGym
+    icon: {fileID: 0}
+    setAllIcons: 1
+    iconOverrides:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    scenes:
+    - {fileID: 102900000, guid: bdaf7b23ca08d9a4f94f7f1eb37f655f, type: 3}
+    - {fileID: 102900000, guid: 2628801c8624a5846952bf2b219d60ad, type: 3}
+    - {fileID: 102900000, guid: 26f90714b1aff0b4ab9dec37e2c84763, type: 3}
+    - {fileID: 102900000, guid: c58ab840ca4eeca44a9fd8efc69fd294, type: 3}
+    - {fileID: 102900000, guid: f1cecda28b0d08a4e84e308ecb6924e3, type: 3}
+    - {fileID: 102900000, guid: 8f7b370a479893e40b7ceb9ea6edaf15, type: 3}
+    - {fileID: 102900000, guid: 2a2625451054a0449b5c3e2d9d1a70ce, type: 3}
+    targetGroup: 7
+    target: 13
+    useSteamworks: 0
+    defineSymbols: 
+    appID: 
+    depotID: 
+    manifestPath: 
+    productID: 
+    paramPath: 
+    trophyPath: 
+    titlePath: 
+    isPatch: 0
+    initialPkgPath: 
+    latestPkgPath: 
+    changeinfoFolder: 
+    packageName: org.youthgolfersoutreachprogram.golfgame
+    exportProject: 0
+    buildAppBundle: 0
+    modifyXCodeProject: 0
+    gameSettings: {fileID: 11400000, guid: a1778fa82fdb2e847ac5be81fbaf3933, type: 2}
+    versionInfo: {fileID: 0}
+  - name: AndroidTest
+    description: AndroidTest
+    productName: Golfers Gym
+    buildName: GolfersGym
+    icon: {fileID: 0}
+    setAllIcons: 1
+    iconOverrides:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    scenes:
+    - {fileID: 102900000, guid: bdaf7b23ca08d9a4f94f7f1eb37f655f, type: 3}
+    - {fileID: 102900000, guid: 2628801c8624a5846952bf2b219d60ad, type: 3}
+    - {fileID: 102900000, guid: 26f90714b1aff0b4ab9dec37e2c84763, type: 3}
+    - {fileID: 102900000, guid: c58ab840ca4eeca44a9fd8efc69fd294, type: 3}
+    - {fileID: 102900000, guid: f1cecda28b0d08a4e84e308ecb6924e3, type: 3}
+    - {fileID: 102900000, guid: 8f7b370a479893e40b7ceb9ea6edaf15, type: 3}
+    - {fileID: 102900000, guid: 2a2625451054a0449b5c3e2d9d1a70ce, type: 3}
+    targetGroup: 7
+    target: 13
+    useSteamworks: 0
+    defineSymbols: 
+    appID: 
+    depotID: 
+    manifestPath: 
+    productID: 
+    paramPath: 
+    trophyPath: 
+    titlePath: 
+    isPatch: 0
+    initialPkgPath: 
+    latestPkgPath: 
+    changeinfoFolder: 
+    packageName: org.youthgolfersoutreachprogram.golfgame
+    exportProject: 0
+    buildAppBundle: 0
+    modifyXCodeProject: 0
+    gameSettings: {fileID: 11400000, guid: 9a442b59db3df1241b7c4f4800193be8, type: 2}
+    versionInfo: {fileID: 0}
+  - name: AndroidProd
+    description: AndroidProd
+    productName: Golfers Gym
+    buildName: GolfersGym
+    icon: {fileID: 0}
+    setAllIcons: 1
+    iconOverrides:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    scenes:
+    - {fileID: 102900000, guid: bdaf7b23ca08d9a4f94f7f1eb37f655f, type: 3}
+    - {fileID: 102900000, guid: 2628801c8624a5846952bf2b219d60ad, type: 3}
+    - {fileID: 102900000, guid: 26f90714b1aff0b4ab9dec37e2c84763, type: 3}
+    - {fileID: 102900000, guid: c58ab840ca4eeca44a9fd8efc69fd294, type: 3}
+    - {fileID: 102900000, guid: f1cecda28b0d08a4e84e308ecb6924e3, type: 3}
+    - {fileID: 102900000, guid: 8f7b370a479893e40b7ceb9ea6edaf15, type: 3}
+    - {fileID: 102900000, guid: 2a2625451054a0449b5c3e2d9d1a70ce, type: 3}
+    targetGroup: 7
+    target: 13
+    useSteamworks: 0
+    defineSymbols: 
+    appID: 
+    depotID: 
+    manifestPath: 
+    productID: 
+    paramPath: 
+    trophyPath: 
+    titlePath: 
+    isPatch: 0
+    initialPkgPath: 
+    latestPkgPath: 
+    changeinfoFolder: 
+    packageName: org.youthgolfersoutreachprogram.golfgame
+    exportProject: 0
+    buildAppBundle: 1
+    modifyXCodeProject: 0
+    gameSettings: {fileID: 11400000, guid: 2be8e17fa749e3947b8ef0b2b43c5ffb, type: 2}
+    versionInfo: {fileID: 0}
+  - name: iOSDev
+    description: iOSDev
+    productName: Golfers Gym
+    buildName: GolfersGym
+    icon: {fileID: 0}
+    setAllIcons: 0
+    iconOverrides: []
+    scenes:
+    - {fileID: 102900000, guid: 8f7b370a479893e40b7ceb9ea6edaf15, type: 3}
+    - {fileID: 102900000, guid: f1cecda28b0d08a4e84e308ecb6924e3, type: 3}
+    - {fileID: 102900000, guid: c58ab840ca4eeca44a9fd8efc69fd294, type: 3}
+    - {fileID: 102900000, guid: 26f90714b1aff0b4ab9dec37e2c84763, type: 3}
+    - {fileID: 102900000, guid: 2628801c8624a5846952bf2b219d60ad, type: 3}
+    - {fileID: 102900000, guid: bdaf7b23ca08d9a4f94f7f1eb37f655f, type: 3}
+    - {fileID: 102900000, guid: 2a2625451054a0449b5c3e2d9d1a70ce, type: 3}
+    targetGroup: 4
+    target: 9
+    useSteamworks: 0
+    defineSymbols: 
+    appID: 
+    depotID: 
+    manifestPath: 
+    productID: 
+    paramPath: 
+    trophyPath: 
+    titlePath: 
+    isPatch: 0
+    initialPkgPath: 
+    latestPkgPath: 
+    changeinfoFolder: 
+    packageName: org.youthgolfersoutreachprogram.golfgame
+    exportProject: 0
+    buildAppBundle: 0
+    modifyXCodeProject: 0
+    gameSettings: {fileID: 11400000, guid: 2af5c8f9af9c61545bb5b8f86c72c5d4, type: 2}
+    versionInfo: {fileID: 0}
+  - name: iOSTest
+    description: iOSTest
+    productName: Golfers Gym
+    buildName: GolfersGym
+    icon: {fileID: 0}
+    setAllIcons: 0
+    iconOverrides: []
+    scenes:
+    - {fileID: 102900000, guid: 8f7b370a479893e40b7ceb9ea6edaf15, type: 3}
+    - {fileID: 102900000, guid: f1cecda28b0d08a4e84e308ecb6924e3, type: 3}
+    - {fileID: 102900000, guid: c58ab840ca4eeca44a9fd8efc69fd294, type: 3}
+    - {fileID: 102900000, guid: 26f90714b1aff0b4ab9dec37e2c84763, type: 3}
+    - {fileID: 102900000, guid: 2628801c8624a5846952bf2b219d60ad, type: 3}
+    - {fileID: 102900000, guid: bdaf7b23ca08d9a4f94f7f1eb37f655f, type: 3}
+    - {fileID: 102900000, guid: 2a2625451054a0449b5c3e2d9d1a70ce, type: 3}
+    targetGroup: 4
+    target: 9
+    useSteamworks: 0
+    defineSymbols: 
+    appID: 
+    depotID: 
+    manifestPath: 
+    productID: 
+    paramPath: 
+    trophyPath: 
+    titlePath: 
+    isPatch: 0
+    initialPkgPath: 
+    latestPkgPath: 
+    changeinfoFolder: 
+    packageName: org.youthgolfersoutreachprogram.golfgame
+    exportProject: 0
+    buildAppBundle: 0
+    modifyXCodeProject: 0
+    gameSettings: {fileID: 11400000, guid: 9a442b59db3df1241b7c4f4800193be8, type: 2}
+    versionInfo: {fileID: 0}
+  - name: iOSProd
+    description: iOSProd
+    productName: Golfers Gym
+    buildName: GolfersGym
+    icon: {fileID: 0}
+    setAllIcons: 0
+    iconOverrides: []
+    scenes:
+    - {fileID: 102900000, guid: 8f7b370a479893e40b7ceb9ea6edaf15, type: 3}
+    - {fileID: 102900000, guid: f1cecda28b0d08a4e84e308ecb6924e3, type: 3}
+    - {fileID: 102900000, guid: c58ab840ca4eeca44a9fd8efc69fd294, type: 3}
+    - {fileID: 102900000, guid: 26f90714b1aff0b4ab9dec37e2c84763, type: 3}
+    - {fileID: 102900000, guid: 2628801c8624a5846952bf2b219d60ad, type: 3}
+    - {fileID: 102900000, guid: bdaf7b23ca08d9a4f94f7f1eb37f655f, type: 3}
+    - {fileID: 102900000, guid: 2a2625451054a0449b5c3e2d9d1a70ce, type: 3}
+    targetGroup: 4
+    target: 9
+    useSteamworks: 0
+    defineSymbols: 
+    appID: 
+    depotID: 
+    manifestPath: 
+    productID: 
+    paramPath: 
+    trophyPath: 
+    titlePath: 
+    isPatch: 0
+    initialPkgPath: 
+    latestPkgPath: 
+    changeinfoFolder: 
+    packageName: org.youthgolfersoutreachprogram.golfgame
+    exportProject: 0
+    buildAppBundle: 0
+    modifyXCodeProject: 0
+    gameSettings: {fileID: 11400000, guid: 2be8e17fa749e3947b8ef0b2b43c5ffb, type: 2}
+    versionInfo: {fileID: 0}

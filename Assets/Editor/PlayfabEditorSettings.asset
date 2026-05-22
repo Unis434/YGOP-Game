@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67bf4bdb3758fc14297302e225cb3bcc, type: 3}
+  m_Name: PlayfabEditorSettings
+  m_EditorClassIdentifier: 
+  playbabDevTitleId: 7734F
+  playbabDevSecretKey: O3PM4NK4X71AXA1P8UZ684QX969E6UE1W3BUYYUB4DDMIE8DSK
+  playfabDevAis: []
+  playbabTestTitleId: AF474
+  playbabTestSecretKey: 41DTXDY1I34JOCDMNIHF936USKO7OPHC4A9II554BCAOUXM3TD
+  playfabTestAis: []
+  playbabProdTitleId: 1A4B4
+  playbabProdSecretKey: IT1E1TK1DG7FYWPT9CSKAXPMXFXYZGNMDKHCAZGZBI8XW84XTJ
+  playfabProdAis: []
+  multiplayerModes: []
+  azureDevSettings:
+    tenantId: 29d971f7-e71b-472a-bfc1-98420ce88fc7
+    clientId: ad601eb7-43d8-41b0-9933-bac64d18e4b6
+    clientSecret: iVi8Q~.ELZ05XWio1Sd4a.WSO3oe5Cqi7_T_Xdgh
+    subscriptionId: de151c38-c0a6-4be6-b608-97d68eded6fc
+    resourceGroup: Game
+    siteName: YgopDev
+  azureTestSettings:
+    tenantId: 29d971f7-e71b-472a-bfc1-98420ce88fc7
+    clientId: ad601eb7-43d8-41b0-9933-bac64d18e4b6
+    clientSecret: iVi8Q~.ELZ05XWio1Sd4a.WSO3oe5Cqi7_T_Xdgh
+    subscriptionId: de151c38-c0a6-4be6-b608-97d68eded6fc
+    resourceGroup: Game
+    siteName: YgopTest
+  azureProdSettings:
+    tenantId: 29d971f7-e71b-472a-bfc1-98420ce88fc7
+    clientId: ad601eb7-43d8-41b0-9933-bac64d18e4b6
+    clientSecret: iVi8Q~.ELZ05XWio1Sd4a.WSO3oe5Cqi7_T_Xdgh
+    subscriptionId: de151c38-c0a6-4be6-b608-97d68eded6fc
+    resourceGroup: Game
+    siteName: YgopProd
